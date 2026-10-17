@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "pixelpiraten.aternos.me",
+    "port": 57179,
     "version": "",
     "try-creative": false
   },
